@@ -42,7 +42,7 @@ Tool Crack Instagram Login Cookie
 #### Screenshot!
 <img src="https://github.com/younis-dgk/hack_instagram/blob/main/Images/Instagram_menu.jpg" />
 
-<img src="https://github.com/younis-dgk/hack_instagram/blob/main/Images/instagram_crack.jpg" />
+<img src="https://github.com/younis-dgk/hack_instagram/blob/main/Images/insta_crack.jpg" />
 
 
 ## <b>Basic Installation</b>
