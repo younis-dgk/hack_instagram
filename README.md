@@ -47,7 +47,7 @@ Tool Crack Instagram Login Cookie
 
 ## <b>Basic Installation</b>
 
-🔰 _PUBLIC ID & FILE CLONING TOOL_
+🔰 _INSTAGRAM CLONING TOOL_
 
 - `pkg update`
 - `pkg upgrade`
@@ -72,6 +72,6 @@ Tool Crack Instagram Login Cookie
 
 
 
- ___This Tool is Free___</br>
+ ___This Tool is Paid___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
 ￼Enter
