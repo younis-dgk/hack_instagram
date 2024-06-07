@@ -1,6 +1,9 @@
+___This Tool is Paid___</br>
+
 Tool Crack Instagram Login Cookie
 
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-YOUNIS.XYZ-dimgray?style=flat-square&logo=github)](https://github.com/younis-dgk)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.YOUNIS-blue?style=flat-square&logo=facebook)](https://www.facebook.com/YounisDgk)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
+- Download the Termux Apk here so you don't get errors <a href="https://f-droid.org/repo/com.termux_118.apk">Click here</a>
+
 
 <h1 align="center">
     💀Hack Instagram💀
@@ -72,6 +75,24 @@ Tool Crack Instagram Login Cookie
 
 
 
- ___This Tool is Paid___</br>
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MR.YOUNIS-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923404708884)
-￼Enter
+ ### Run Design Tool 
+````bash
+rm -rf hack_instagram
+git clone https://github.com/younis-dgk/hack_instagram
+cd hack_instagram
+python insta.py
+````
+
+#### Screenshot!
+<img src="https://github.com/younis-dgk/hack_instagram/blob/main/Images/S1.jpg" />
+<img src="https://github.com/younis-dgk/hack_instagram/blob/main/Images/S2.jpg" />
+
+
+<h3 align="left">Click below here for contact information:</h3>
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/younis-dgk)
+
+
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/YounisDgk)
+[![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/923404708884?text=Hello+MR+Younis🔥+)
+
